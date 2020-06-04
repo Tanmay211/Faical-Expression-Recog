@@ -10,11 +10,11 @@ This is a simple Deep Learning Project to recognise one of the seven universal f
 7. Disgust
 
 To try it on your own, just clone the repo and then move into the root directory of the project and install all the dependencies by:
-pip install flask tensorflow opencv-python
-and other dependencies as well.
+### pip install flask tensorflow opencv-python
+and similarly install other dependencies as well.
 
 Then simply run the server by the command:
-python main.py
+### python main.py
 and you can see the code running on localhost:5000
 
 ## Side note
